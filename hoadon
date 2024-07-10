@@ -1,0 +1,113 @@
+
+<HDon>
+<DLHDon>
+<TTChung>
+<PBan>2.0.1</PBan>
+<THDon>Hóa đơn giá trị gia tăng</THDon>
+<KHMSHDon>1</KHMSHDon>
+<KHHDon>K24TLD</KHHDon>
+<SHDon>954387</SHDon>
+<
+<TGia>1</TGia>
+<HTTToan>TM/CK</HTTToan>
+<MSTTCGP>0106026495-001</MSTTCGP>
+<TTHDLQuan/>
+<TTKhac>
+<Ân>
+<TTruong>Mã tra cứu</TTruong>
+<DLieu>28B96EB3</DLieu>
+</TTin>
+<Ân>
+<TTruong>Vòi bơm </TTruong>
+<DLieu>10</DLieu>
+</TTin>
+<Ân>
+<TTruong>Mã hàng</TTruong>
+<DLieu>LX93</DLieu>
+</TTin>
+<Ân>
+<TTruong>Cửa hàng số</TTruong>
+<DLieu>Sông Hồng - CHXD Lê Văn Lương - CH07.02</DLieu>
+</TTin>
+</TTKhac>
+</TTChung>
+<NDHDon>
+<NBan>
+<Ten>CÔNG TY TNHH DU LỊCH VÀ THƯƠNG MẠI SÔNG HỒNG</Ten>
+<MST>0100237411</MST>
+<DChi>Số 68 đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam</DChi>
+<SDThoai>19003099</SDThoai>
+<DCTDTu>ketoanthue@redriverco.com</DCTDTu>
+<Website>https://redriverco.com</Website>
+</NBan>
+<NMua>
+<Ten>CÔNG TY CỔ PHẦN KIẾN TRÚC VÀ XÂY DỰNG AD GROUP</Ten>
+<MST>0102274539</MST>
+<DChi>Số 158, phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam</DChi>
+<HVTNMHang>30G-969.44</HVTNMHang>
+</NMua>
+<DSHHDVu>
+<HHDVu>
+>
+<MHHDVu>LX93</MHHDVu>
+<THHDVu>Xăng RON95-III</THHDVu>
+<DVTinh>Lít</DVTinh>
+<SLuong>42.463</SLuong>
+<DGia>21409.0909</DGia>
+<TLCKhau>0</TLCKhau>
+<STCKhau>0</STCKhau>
+<ThTien>909091</ThTien>
+<TSuat>10%</TSuat>
+</HHDVu>
+</DSHHDVu>
+<TToan>
+<THTTLTSuat>
+<LTSuat>
+<TSuat>10%</TSuat>
+<ThTien>909091</ThTien>
+<TThue>90909</TThue>
+</LTSuat>
+</THTTLTSuat>
+<TgTCThue>909091</TgTCThue>
+<TTCKTMai>0</TTCKTMai>
+<TgTTTBChu>Một triệu đồng</TgTTTBChu>
+</TToan>
+<TTKhac/>
+</NDHDon>
+</DLHDon>
+<DLQRCode>000201999800323A13A8737C469191DA96E2FEE382465501100100237411020110306K24TLD04069543870508202407090607100000063045301</DLQRCode>
+<DSCKS>
+<NBan>
+<Chữ ký>
+<Thông tin đã ký>
+<Thuật toán CanonicalizationMethod/>
+< / >
+<>
+<Biến hình>
+<Thuật / >
+</Biến đổi>
+< / >
+<DigestValue>I2b8q/Wq5aPK+bsKeQUFYoKhDJN0X6iigcVHKnJdXpc=</DigestValue>
+</Tham khảo>
+<>
+< / >
+<DigestValue>V0iIONSRdhixa3mS4JBTDh+Y3erbis4XHzFY/PQgd/I=</DigestValue>
+</Tham khảo>
+</SignedInfo>
+<KeyInfo>
+<X509Dữ liệu>
+<X509SubjectName>C=VN,ST=Hà Nội,L=Quận Thanh Xuân,O=CÔNG TY TNHH DU LỊCH VÀ THƯƠNG MẠI SÔNG HỒNG,CN=CÔNG TY TNHH DU LỊCH VÀ THƯƠNG MẠI SÔNG HỒNG,UID=MST:0100237411</X509SubjectName>
+< / X509Dữ liệu>
+</KeyInfo>
+<>
+<Thuộc tính chữ ký>
+<SignatureProperty>
+</SignatureProperty>
+</SignatureProperties>
+</Đối tượng>
+</Chữ ký>
+</NBan>
+<Mua/>
+<CCKSKhac/>
+</DSCKS>
+</HDon>
